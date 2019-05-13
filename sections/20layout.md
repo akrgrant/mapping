@@ -1,4 +1,4 @@
-[<<< Previous](18extra.md)  | [Next >>>](20more.md)  
+[<<< Previous](19extra.md)  | [Next >>>](21more.md)  
 
 # Layout: Making a printable and shareable product with QGIS
 
@@ -6,7 +6,7 @@ QGIS is most frequently used as a tool of geospatial data analysis, but it can a
 
 * Click on the `New Composer` button. You will see this:
 
-![New Composer Screen](images/composer.PNG)
+![New Composer Screen](images/UpdateLayout.png)
 
 This is what the page you print will look like. Now you can add elements to it to create your printable map. 
 
@@ -50,4 +50,4 @@ A thematic map is not very useful if we do not know what is being represented. T
 * Once you are satisfied with your layout, you can click on `Print` to have it saved as a PDF or printed on paper.
 
 
-[<<< Previous](18extra.md)  | [Next >>>](20more.md)  
+[<<< Previous](19extra.md)  | [Next >>>](21more.md)  
